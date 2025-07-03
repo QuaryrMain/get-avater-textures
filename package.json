@@ -1,0 +1,24 @@
+{
+  "name": "get-avater-textures",
+  "version": "1.0.0",
+  "main": "sendCookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quaryrmain/get-avater-textures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quaryrmain/get-avater-textures/issues"
+  },
+  "homepage": "https://github.com/Quaryrmain/get-avater-textures#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "puppeteer": "^24.11.2"
+  }
+}
